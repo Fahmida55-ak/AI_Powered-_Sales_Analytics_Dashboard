@@ -63,7 +63,8 @@ This dashboard analyzes sales performance across **Amazon, iHerb, and Walmart** 
 
 ## 📷 Preview
 
-*(Add a screenshot of the dashboard here, e.g. `![Dashboard Preview](screenshots/dashboard.png)`)*
+<img width="1313" height="733" alt="Screenshot 2026-09-14 221556" src="https://github.com/user-attachments/assets/09a1a00d-3921-4ce7-a426-3715535e34c7" />
+
 
 ## 📄 License
 
@@ -71,6 +72,6 @@ This project is open for learning and portfolio purposes. Feel free to fork and 
 
 ---
 
-### 💡 Suggested Repository Description (for GitHub's "About" field)
 
-> Interactive Power BI sales dashboard with AI-powered Key Influencers, Decomposition Tree, and Anomaly Detection to explain revenue trends across products, locations, and platforms.
+
+
